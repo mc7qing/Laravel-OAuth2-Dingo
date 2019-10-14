@@ -1184,8 +1184,8 @@
     "weight": 160
   },
   {
-  "bookSourceGroup": "SS级",
-  "bookSourceName": "笔趣阁 biquge5200",
+  "bookSourceGroup": "精选源💯",
+  "bookSourceName": "💯SS笔趣阁biquge5200",
   "bookSourceUrl": "https://www.biquge5200.cc-By Dark",
   "enable": true,
   "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
@@ -1213,8 +1213,8 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "SS级",
-  "bookSourceName": "斋书苑",
+  "bookSourceGroup": "精选源💯",
+  "bookSourceName": "💯斋书苑SS",
   "bookSourceUrl": "https://www.zhaishuyuan.com-By Dark",
   "enable": true,
   "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
@@ -1243,8 +1243,8 @@
   "serialNumber": 4,
   "weight": 0
 } ,
-  {"bookSourceGroup": "SS级",
-  "bookSourceName": "全本小说网",
+  {"bookSourceGroup": "精选源💯",
+  "bookSourceName": "💯全本小说网SS",
   "bookSourceUrl": "https://www.qb5.tw-By Dark",
   "enable": true,
   "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
@@ -1271,9 +1271,10 @@
   "ruleSearchUrl": "https://www.qb5.tw/modules/article/search.php?searchtype=articlename&searchkey=searchKey|char=gbk",
   "serialNumber": 3,
   "weight": 0
-}
-  "bookSourceGroup": "SS级",
-  "bookSourceName": "新笔下文学",
+},
+  {
+  "bookSourceGroup": "精选源💯",
+  "bookSourceName": "💯新笔下文学SS",
   "bookSourceUrl": "https://www.xbxwx.net-By Dark",
   "enable": true,
   "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
